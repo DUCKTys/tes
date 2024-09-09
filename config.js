@@ -108,8 +108,7 @@ global.wait = 'Please Wait...'
 global.eror = 'Error!'
 
 /*============= WEB API KEY =============*/
-global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
-global.org = 'org-NHD37vXoajYRzOYi4cShFb3P'  //openAI Organization name
+
 global.xzn = 'esteh'
 
 global.APIs = {
